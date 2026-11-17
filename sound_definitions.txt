@@ -1,0 +1,9 @@
+{
+	"format_version": "1.20.80",
+	"sound_definitions": {
+		"custom.alarm2": {
+			"category": "neutral",
+			"sounds": ["sounds/custom/alarm2"]
+		}
+	}
+}
