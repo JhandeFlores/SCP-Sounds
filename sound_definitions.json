@@ -1,0 +1,29 @@
+{
+	"format_version": "1.20.80",
+	"sound_definitions": {
+		"custom.alarm2": {
+			"category": "music",
+			"sounds": [
+				"sounds/custom/alarm2"
+			]
+		},
+		"custom.alarm3": {
+			"category": "music",
+			"sounds": [
+				"sounds/custom/alarm3"
+			]
+		},
+		"custom.nuke1": {
+			"category": "music",
+			"sounds": [
+				"sounds/custom/nuke1"
+			]
+		},
+		"custom.siren": {
+			"category": "music",
+			"sounds": [
+				"sounds/custom/siren"
+			]
+		}
+	}
+}
