@@ -28,7 +28,7 @@
 		"custom.engine_s": {
 			"category": "block",
 			"min_distance": 5.0,
-			"max_distance": 24.0,
+			"max_distance": 10.0,
 			"sounds": [
 				"sounds/custom/engine_s"
 			]
@@ -36,7 +36,7 @@
 		"custom.engine_r": {
 			"category": "block",
 			"min_distance": 5.0,
-			"max_distance": 24.0,
+			"max_distance": 10.0,
 			"sounds": [
 				"sounds/custom/engine_r"
 			]
@@ -44,7 +44,7 @@
 		"custom.engine_d": {
 			"category": "block",
 			"min_distance": 5.0,
-			"max_distance": 24.0,
+			"max_distance": 10.0,
 			"sounds": [
 				"sounds/custom/engine_d"
 			]
